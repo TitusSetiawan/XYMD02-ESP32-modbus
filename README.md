@@ -4,6 +4,8 @@ Read data XY MD02 sensor with ESP32 and RS485
 1. ESP32 Devkitc
 2. RS485 Modbus Module
 3. XY-MD02 Temperature Humidity Transmitter Acquisition Module Transducer SHT20 Temperature & Humidity Sensors
+4. ModbusMaster.h
+5. AntaresESP32MQTT.h&nbsp;&nbsp; send data to Antares.id (IoT Platform)
 
 ## Wiring Diagram
 XY-MD02&nbsp;&nbsp;A&nbsp;&nbsp;-->&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;RS485<br/>
